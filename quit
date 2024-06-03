@@ -1,0 +1,17 @@
+[33mcommit ecd97d068ef455deb79219a258c29a7660fb3e0f[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: Houssem Ayachi <ahmedhoussemayachi@gmail.com>
+Date:   Mon Nov 27 18:36:05 2023 +0100
+
+    finished the X axis ray and castRay function returns the closest ray
+
+[33mcommit 7c80b553fe0a6c02afd33b48c3bcb58268bedc0e[m
+Author: Houssem Ayachi <ahmedhoussemayachi@gmail.com>
+Date:   Sun Nov 26 22:27:34 2023 +0100
+
+    finished casting a single ray on Y axis
+
+[33mcommit 4fef41fcd45b0485f8f5d833ffd9ce9f889b0b62[m
+Author: Houssem Ayachi <ahmedhoussemayachi@gmail.com>
+Date:   Thu Nov 23 20:29:11 2023 +0100
+
+    simple graphics and first ray logic not completed
